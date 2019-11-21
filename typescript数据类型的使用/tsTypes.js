@@ -1,0 +1,10 @@
+var userName = '张三';
+var isZheng = true;
+var num = 15;
+var array = ['张三', '李四', '王五'];
+var numList = [1, 2, 3, 4, 5, 6];
+var objList = [12, '张三', false];
+var objArray = [13, '张三', true, false];
+var obj;
+obj = '张三';
+console.log(obj);
